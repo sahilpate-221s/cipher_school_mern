@@ -1,0 +1,11 @@
+In this video they have explained how internet technologies work, focusing on the interaction between frontend and backend components using Facebook as an example.
+When the person types www.facebook.com on his laptop, it resolves to an IP address hosting Facebook’s frontend, which sends HTML, CSS, and JavaScript to display the site. 
+Persons login details are sent to the backend server for verification against a database. If correct, the backend server informs the frontend server to proceed; otherwise, an error message is sent. 
+The speaker introduces the MERN stack (MongoDB, Express, React, Node.js) and emphasizes the importance of these interactions for developing web applications. 
+Additionally, the Domain Name System (DNS) resolves domain names to IP addresses, facilitating the connection between the user’s device and the server.
+This overview sets the stage for a deeper exploration of web development technologies.
+
+
+
+
+
